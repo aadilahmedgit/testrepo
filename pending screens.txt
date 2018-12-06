@@ -1,0 +1,43 @@
+Expiration tracking report
+Lot/serial tracking report
+charge report
+review charges report
+issue w/o patient report
+par location compliance detail report
+back order report
+issue status report
+cycle count status report
+
+
+
+
+cart count
+item usage report
+cart putaway report
+bin status report
+
+cycle count
+Item exception Report
+event summary report
+
+Pick
+Release orders
+Allocate picking zones
+
+Receiving
+PO/NON PO Receipts
+
+putaway
+deviation report
+release orders
+
+
+stock issue(setting: Edit Business Unit on Handheld-checked in profile parameter, Create MSR for each Issue checked in org parameters)
+
+
+
+
+
+
+
+
